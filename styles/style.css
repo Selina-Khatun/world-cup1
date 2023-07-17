@@ -142,3 +142,26 @@ border: 1px solid gray;
     grid-template-columns: repeat(3, 3fr);
     gap: 18px 18px;
 }
+footer{
+    background-color: #251717;
+    text-align: center;
+    padding: 60px;
+    color: #fff;
+}
+/* hr{
+    margin: 40px;
+    border: 1px solid gray;
+} */
+.footer-title{
+    /* margin-bottom: 40px; */
+    padding: 40px;
+    border-bottom: 0.1px solid rgb(51, 50, 50);
+}
+.footer-last{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    list-style: none;
+    font-size: 0.8rem;
+    padding: 40px;
+}
